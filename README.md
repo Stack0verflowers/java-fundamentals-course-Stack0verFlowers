@@ -1,90 +1,98 @@
 # java-fundamentals-course-Stack0verFlowers
-Codigo de Lecciones Java
-# Curso de Java para Principiantes
+# Fundamentos de Java para Principiantes
+## Resumen del Curso
+Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de la programación con Java, incluyendo
+programación orientada a objetos. **¡No requiere descargas!** Solo abre tu navegador web.
 
-## 📘 Descripción
-Repositorio con el código fuente del curso **"Fundamentos de Java para Principiantes"**.  
-Este curso está diseñado para estudiantes de secundaria sin experiencia previa en programación.
+**Duración total**: ~60 minutos
 
+**Público Objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
+
+**Prerrequisitos**: Ninguno
+
+**Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
+
+**📂 Repositorio de Código Fuente**: https://github.com/Stack0verflowers/java-fundamentals-course-Stack0verFlowers.git
+
+## Secuencia de la Lección
+
+### Lección 1: ¿Qué es Java y la Programación? (5 minutos)
+- *Descripción*: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
+- *Enlace*: https://youtu.be/2UAMLM75oMA
+- *Conclusiones clave*: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras.
+- *Empieza a programar*: https://www.jdoodle.com/ia/1MS3
+
+### Lección 2: Variables y tipos de datos (8 minutos)
+- **Descripción**: Aprende a almacenar datos en Java usando variables.
+- **Enlace**: https://youtu.be/HqjMJmcstWI
+- **Conclusiones clave**: Usa int, String; declara como int age = 16;
+- **Práctica**: https://www.jdoodle.com/ia/1N2Z 👈 **¡Empieza a programar!**
+
+### Lección 3: Leccion 3: Estructuras de control (if - else, for, while) (10:18 minutos)
+- *Descripción*: Toma decisiones con if-else y repite tareas con bucles.
+- *Enlace*: https://youtu.be/twhULFaKf2g
+- *Conclusiones clave*: if (edad > 12) {}; Aprende a usar condiciones
+- *Práctica: https://www.jdoodle.com/ia/1ML3 👈 *¡Inicio inmediato!**
+
+### Lección 4: Métodos, Entrada/Salida e Introducción a la POO (10 minutos)
+- *Descripción*: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
+- *Enlace*: https://youtu.be/6IfJ7Kqq3o4
+- *Conclusiones clave*: ppublic static void saludar() {}; class Estudiante { String nombre; }
+- *Práctica: https://www.jdoodle.com/ia/1N30 👈 **¡Empieza a programar!
+
+### Lección 5: Fundamentos de POO y programas sencillos (20:58 minutos)
+- **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
+- **Enlace**: https://youtu.be/OeY7UEMA8xA
+- **Conclusiones clave**: Encapsulación con getters/setters; Sistema de biblioteca completo.
+- **Proyecto final**: https://www.jdoodle.com/ia/1ML4 👈 **¡Guarda y comparte!**
+
+### Lección 6: Consejos y próximos pasos (7 minutos)
+- **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
+- **Enlace**: https://youtu.be/ags1snhDhSI
+- **Consejos clave**: Depurar errores, explorar la documentación de las lecciones de Java, practicar mas.
+- **Compartir tu trabajo**: https://forms.gle/sLY3qp2d1Gh8cXB16
+## Recursos adicionales
+- **Código fuente completo**: https://www.jdoodle.com/ia/1N32
+- **Playlist Completa**: https://www.youtube.com/playlist?list=PL8VfTRBlqQTDg6t9JPhlFkzLjgAmne5Ef
+- **Todas las actividades prácticas**:
+- 
+| Número de lección | Actividad | Empezar a programar |
+|----------|----------|-------------|
+| 1 | Introduccion a Java |  https://www.jdoodle.com/ia/1MS3|
+| 2 | Variables y tipos de Datos |https://www.jdoodle.com/ia/1N2Z|
+| 3 | Estructuras de control (if - else, for, while) | https://www.jdoodle.com/ia/1ML3 |
+| 4 | Métodos, Entrada/Salida e Introducción a la POO |https://www.jdoodle.com/ia/1MKx](https://www.jdoodle.com/ia/1N30|
+| 5 | Fundamentos de POO y programas sencillos |https://www.jdoodle.com/ia/1ML4  |
+| 6 | Conclusiones y Recomendaciones (Ejercicios) |https://www.jdoodle.com/ia/1N2x |
+
+- Cuestionario: https://forms.gle/Nqx3FMAgh6s5gwm27
+- Compartir: #JavaBeginners
+**¡Gracias por completar el curso!**
 ---
+## 👥 Elaboración
+Universidad Peruana de Ciencias Aplicadas
 
-## 🚀 Cómo Empezar
+Carrera de Ingeniería de Software
 
-### **Paso 1: Registrarse en JDoodle**
-1. Ve a **JDoodle Online Java Compiler**  
-2. Haz clic en **"Sign Up"** (esquina superior derecha)  
-3. Completa el formulario de registro (es gratuito)  
-4. Confirma tu email e inicia sesión  
+Período 202520
 
-### **Paso 2: Configurar el Proyecto**
-En la página principal de JDoodle, selecciona el tipo de proyecto:
+1ASI0729 Desarrollo de Aplicaciones Open Source
 
-- **Lecciones 1–4:** `Single File`  
-- **Lección 5:** `Multi File`
+NRC [7380]
 
-### **Paso 3: Usar el Código**
-1. En este repositorio, entra en la carpeta de la lección que quieres practicar  
-2. Copia el código completo en la carpeta Home.Java si estas en el MultiFiler.  
-3. Pégalo en JDoodle en el editor  
-4. Haz clic en **"Execute"** para ver los resultados  
+**Nombre del equipo**: [Stack0verflowers]
 
----
+**Líder del equipo**: [Contreras Leon, Flor De María]
 
-## 📁 Estructura del Repositorio
+**Integrantes del equipo**: 
+[Contreras Leon, Flor De María]
 
-```text
-📂 Lecciones/          # Código inicial para practicar
-📂 Ejercicios/     # Soluciones completas  
-📂 scripts/                # Recursos adicionales
-📖 README.md               # Este archivo
+[Apaza Bocanegra, Elizabeth Noelia]
 
-```
+[Guillen Galindo, Julio Adolfo]
 
-## 📚 Lecciones Disponibles
+[Miraval Pomalaya, Rodrigo Jesus]
 
-- **Lección 1:** Introducción a Java  
-- **Lección 2:** Variables y tipos de datos  
-- **Lección 3:** Condicionales y toma de decisiones  
-- **Lección 4:** Métodos e introducción a POO  
-- **Lección 5:** Constructores y encapsulación  
-- **Lección 6:** Consejos y próximos pasos  
+[Navarro Chinga, Antonio Jhair]
 
----
-
-## 💡 Recomendaciones
-
-- **Guarda tu progreso:** Usa la función *"Save"* de JDoodle  
-- **Experimenta:** Modifica el código y prueba distintos valores  
-- **Revisa los ejemplos:** Carpeta `Ejercicios/`  
-- **Practica seguido:** 15–20 minutos diarios son ideales  
-
----
-
-## 🆘 Solución de Problemas Comunes
-
-### ❌ Error: *"Cannot find symbol"*
-- Asegúrate de que los nombres de clases coincidan exactamente  
-- En *Single File*, la clase pública debe ser `Main`
-
-### ❌ Error: *"Class names are only accepted..."*
-- El nombre del archivo debe coincidir con la clase pública
-
-### ❌ ¿No ves los resultados?
-- Haz clic en **Execute**  
-- Verifica que no existan errores en la consola  
-
----
-
-## 🔗 Enlaces Útiles
-
-- **JDoodle:**   https://www.jdoodle.com
-- **Documentación :** https://www.jdoodle.com/ia/1N32
-
----
-
-## 👥 Equipo
-
-**Universidad Peruana de Ciencias Aplicadas**  
-Curso: *Desarrollo de Aplicaciones Open Source*  
-Período: **202520**
-
+**Fecha de entrega**: [14/11/2025]
