@@ -34,11 +34,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - *Conclusiones clave*: if (edad > 12) {}; Aprende a usar condiciones
 - *Práctica: https://www.jdoodle.com/ia/1ML3 👈 *¡Inicio inmediato!**
 
-### Lección 4: Métodos, Entrada/Salida e Introducción a la POO (10 minutos)
-- *Descripción*: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
-- *Enlace*: https://youtu.be/6IfJ7Kqq3o4
-- *Conclusiones clave*: ppublic static void saludar() {}; class Estudiante { String nombre; }
-- *Práctica: https://www.jdoodle.com/ia/1N30 👈 **¡Empieza a programar!
+
 
 ### Lección 5: Fundamentos de POO y programas sencillos (20:58 minutos)
 - **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
